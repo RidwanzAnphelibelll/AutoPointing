@@ -100,7 +100,7 @@ def main():
     while True:
         print(f"{Fore.YELLOW}\n1. Create Subdomain")
         print(f"2. Delete Subdomain")
-        print(f"3. Domain List")
+        print(f"3. Subdomain List")
         print(f"4. Exit")
 
         choice = input(f"{Fore.YELLOW}Select option (1/2/3/4): ")
