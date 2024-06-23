@@ -1,0 +1,1 @@
+# Auto pointing subdomains to cloudflare.
